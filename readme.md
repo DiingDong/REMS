@@ -12,7 +12,7 @@ Carrera:
     Ingenieria en Computacion (INCO)
 
 Integrantes:
-    Adrian Ruiz Bravo Dean
+    Ruiz Bravo Dean Adrian
     De Haro Cueto Jonatan Eduardo
 
 -------------------------------------------------------------------
