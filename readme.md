@@ -12,8 +12,8 @@ Carrera:
     Ingenieria en Computacion (INCO)
 
 Integrantes:
-    Adrian Ruiz Bravo Dean (216307432)
-    De Haro Cueto Jonatan Eduardo (216307475)
+    Adrian Ruiz Bravo Dean
+    De Haro Cueto Jonatan Eduardo
 
 -------------------------------------------------------------------
 
